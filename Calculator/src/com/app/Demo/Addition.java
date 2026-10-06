@@ -17,6 +17,9 @@ public class Addition {
 	public void m2()
 	{
 	}
-	
+	public void m()
+	{
 	}
+	}
+	
 
