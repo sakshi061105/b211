@@ -13,4 +13,10 @@ public class Addition {
 	public void m1()
 	{
 	}
-}
+	
+	public void m2()
+	{
+	}
+	
+	}
+
